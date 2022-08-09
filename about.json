@@ -1,0 +1,41 @@
+{
+  "name": "Rounded",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "Dark": {
+      "primary": "dddddd",
+      "secondary": "222222",
+      "tertiary": "0f82af",
+      "quaternary": "c14924",
+      "header_background": "111111",
+      "header_primary": "dddddd",
+      "highlight": "a87137",
+      "danger": "e45735",
+      "success": "1ca551",
+      "love": "fa6c8d"
+    },
+    "New Color Scheme": {
+      "primary": "222222",
+      "secondary": "ffffff",
+      "tertiary": "0088cc",
+      "quaternary": "e45735",
+      "header_background": "ffffff",
+      "header_primary": "333333",
+      "highlight": "ffff4d",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
+    }
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
