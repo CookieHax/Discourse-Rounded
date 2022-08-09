@@ -1,11 +1,11 @@
 {
   "name": "Rounded",
   "component": false,
-  "license_url": null,
+  "license_url": "",
   "about_url": null,
-  "authors": null,
-  "theme_version": null,
-  "minimum_discourse_version": null,
+  "authors": "CookieHax",
+  "theme_version": "1.0.0",
+  "minimum_discourse_version": "2.9.0.beta8",
   "maximum_discourse_version": null,
   "assets": {
   },
@@ -22,20 +22,7 @@
       "success": "1ca551",
       "love": "fa6c8d"
     },
-    "New Color Scheme": {
-      "primary": "222222",
-      "secondary": "ffffff",
-      "tertiary": "0088cc",
-      "quaternary": "e45735",
-      "header_background": "ffffff",
-      "header_primary": "333333",
-      "highlight": "ffff4d",
-      "danger": "e45735",
-      "success": "009900",
-      "love": "fa6c8d"
-    }
   },
   "modifiers": {
-  },
-  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+  }
 }
